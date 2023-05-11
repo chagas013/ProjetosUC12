@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosConversãoUC12", "ExerciciosConversãoUC12\ExerciciosConversãoUC12.csproj", "{CC5A9C94-8E03-42F2-AECE-A06C660176CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prj2Aula1", "Prj2Aula1\Prj2Aula1.csproj", "{47875EF7-8052-4DE9-B799-F1A7EBBE4DB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prj2Aula1", "Prj2Aula1\Prj2Aula1.csproj", "{47875EF7-8052-4DE9-B799-F1A7EBBE4DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjMedias", "PrjMedias\PrjMedias.csproj", "{7FE587CD-FED8-4679-B068-7EB76AF8848D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{47875EF7-8052-4DE9-B799-F1A7EBBE4DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47875EF7-8052-4DE9-B799-F1A7EBBE4DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47875EF7-8052-4DE9-B799-F1A7EBBE4DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE587CD-FED8-4679-B068-7EB76AF8848D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE587CD-FED8-4679-B068-7EB76AF8848D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE587CD-FED8-4679-B068-7EB76AF8848D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE587CD-FED8-4679-B068-7EB76AF8848D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
